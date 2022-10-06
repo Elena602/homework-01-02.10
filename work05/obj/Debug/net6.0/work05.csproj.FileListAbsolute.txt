@@ -1,0 +1,15 @@
+C:\Users\Елена\Desktop\дз\с #\dz\homework 01-02.10\work05\obj\Debug\net6.0\work05.csproj.AssemblyReference.cache
+C:\Users\Елена\Desktop\дз\с #\dz\homework 01-02.10\work05\obj\Debug\net6.0\work05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Елена\Desktop\дз\с #\dz\homework 01-02.10\work05\obj\Debug\net6.0\work05.AssemblyInfoInputs.cache
+C:\Users\Елена\Desktop\дз\с #\dz\homework 01-02.10\work05\obj\Debug\net6.0\work05.AssemblyInfo.cs
+C:\Users\Елена\Desktop\дз\с #\dz\homework 01-02.10\work05\obj\Debug\net6.0\work05.csproj.CoreCompileInputs.cache
+C:\Users\Елена\Desktop\дз\с #\dz\homework 01-02.10\work05\bin\Debug\net6.0\work05.exe
+C:\Users\Елена\Desktop\дз\с #\dz\homework 01-02.10\work05\bin\Debug\net6.0\work05.deps.json
+C:\Users\Елена\Desktop\дз\с #\dz\homework 01-02.10\work05\bin\Debug\net6.0\work05.runtimeconfig.json
+C:\Users\Елена\Desktop\дз\с #\dz\homework 01-02.10\work05\bin\Debug\net6.0\work05.dll
+C:\Users\Елена\Desktop\дз\с #\dz\homework 01-02.10\work05\bin\Debug\net6.0\work05.pdb
+C:\Users\Елена\Desktop\дз\с #\dz\homework 01-02.10\work05\obj\Debug\net6.0\work05.dll
+C:\Users\Елена\Desktop\дз\с #\dz\homework 01-02.10\work05\obj\Debug\net6.0\refint\work05.dll
+C:\Users\Елена\Desktop\дз\с #\dz\homework 01-02.10\work05\obj\Debug\net6.0\work05.pdb
+C:\Users\Елена\Desktop\дз\с #\dz\homework 01-02.10\work05\obj\Debug\net6.0\work05.genruntimeconfig.cache
+C:\Users\Елена\Desktop\дз\с #\dz\homework 01-02.10\work05\obj\Debug\net6.0\ref\work05.dll
